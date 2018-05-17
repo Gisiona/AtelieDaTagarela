@@ -1,0 +1,11 @@
+C:\TFS\GitHub\AtelieDaTagarela\AtelieDaTagarela\AtelieDaTagarela\bin\Debug\netcoreapp2.0\AtelieDaTagarela.deps.json
+C:\TFS\GitHub\AtelieDaTagarela\AtelieDaTagarela\AtelieDaTagarela\bin\Debug\netcoreapp2.0\AtelieDaTagarela.runtimeconfig.json
+C:\TFS\GitHub\AtelieDaTagarela\AtelieDaTagarela\AtelieDaTagarela\bin\Debug\netcoreapp2.0\AtelieDaTagarela.runtimeconfig.dev.json
+C:\TFS\GitHub\AtelieDaTagarela\AtelieDaTagarela\AtelieDaTagarela\bin\Debug\netcoreapp2.0\AtelieDaTagarela.dll
+C:\TFS\GitHub\AtelieDaTagarela\AtelieDaTagarela\AtelieDaTagarela\bin\Debug\netcoreapp2.0\AtelieDaTagarela.pdb
+C:\TFS\GitHub\AtelieDaTagarela\AtelieDaTagarela\AtelieDaTagarela\obj\Debug\netcoreapp2.0\AtelieDaTagarela.csprojResolveAssemblyReference.cache
+C:\TFS\GitHub\AtelieDaTagarela\AtelieDaTagarela\AtelieDaTagarela\obj\Debug\netcoreapp2.0\AtelieDaTagarela.csproj.CoreCompileInputs.cache
+C:\TFS\GitHub\AtelieDaTagarela\AtelieDaTagarela\AtelieDaTagarela\obj\Debug\netcoreapp2.0\AtelieDaTagarela.AssemblyInfoInputs.cache
+C:\TFS\GitHub\AtelieDaTagarela\AtelieDaTagarela\AtelieDaTagarela\obj\Debug\netcoreapp2.0\AtelieDaTagarela.AssemblyInfo.cs
+C:\TFS\GitHub\AtelieDaTagarela\AtelieDaTagarela\AtelieDaTagarela\obj\Debug\netcoreapp2.0\AtelieDaTagarela.dll
+C:\TFS\GitHub\AtelieDaTagarela\AtelieDaTagarela\AtelieDaTagarela\obj\Debug\netcoreapp2.0\AtelieDaTagarela.pdb
